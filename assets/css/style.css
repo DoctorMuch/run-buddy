@@ -78,6 +78,19 @@ section {
     
 }
 
+.hero-habits {
+    padding: 0 15px 40px 100px;
+    width: 500px;
+    text-align: right;
+    color: #ffff;
+}
+
+.hero-habits h2 {
+    font-size: 42px;
+    color: #fce138;
+    font-style: italic;
+}
+
 .hero-form {
     background-color: #fce138;
     border: solid 3px #024e76;
