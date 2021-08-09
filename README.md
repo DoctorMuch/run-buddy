@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️️ by David F Mueth
+
+### ©️2021 Run Buddy, Inc.
